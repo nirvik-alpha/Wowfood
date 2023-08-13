@@ -15,15 +15,15 @@ An online food ordering system can be defined as Software that allows restuarent
 * Tools - VSCode
 
 ## Project Demo:
-<img src="./S_Shots/1.PNG" width="500" height="500" title="" />     <img src="./S_Shots/2.PNG" width="500" height="500" title="" /> 
+<img src="./S_Shots/1.PNG" width="600" height="400" title="" />     <img src="./S_Shots/2.PNG" width="600" height="400" title="" /> 
 
-<img src="./S_Shots/3.PNG" width="500" height="500" title="" />     <img src="./S_Shots/4.PNG" width="500" height="500" title="" /> 
+<img src="./S_Shots/3.PNG" width="600" height="400" title="" />     <img src="./S_Shots/4.PNG" width="600" height="400" title="" /> 
 
-<img src="./S_Shots/5.jpg" width="500" height="500" title="" />     <img src="./S_Shots/7.jpg.jpg" width="500" height="500" title="" /> 
+<img src="./S_Shots/5.jpg" width="600" height="400" title="" />     <img src="./S_Shots/7.png" width="600" height="400" title="" /> 
 
-<img src="./S_Shots/8.jpg" width="500" height="500" title="" />     <img src="./S_Shots/22.PNG" width="500" height="500" title="" /> 
+<img src="./S_Shots/8.jpg" width="600" height="400" title="" />     <img src="./S_Shots/22.PNG" width="600" height="400" title="" /> 
 
-<img src="./S_Shots/23.PNG" width="500" height="500" title="" />     <img src="./S_Shots/6.jpg" width="500" height="500" title="" /> 
+<img src="./S_Shots/23.PNG" width="600" height="400" title="" />     <img src="./S_Shots/about.PNG" width="600" height="400" title="" /> 
 
 
 
